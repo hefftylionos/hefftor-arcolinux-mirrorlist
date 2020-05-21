@@ -1,0 +1,3 @@
+[hefftylionos]
+SigLevel = Optional TrustedOnly
+Server = https://$repo.github.io/repo/$arch
